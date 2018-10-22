@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = C:/Users/shuts.DESKTOP-4ETEC8U/Desktop/labs_clouds/lab_1
